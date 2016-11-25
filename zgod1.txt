@@ -1,0 +1,500 @@
+   27  vim ~/.vimrc
+   28  vim 
+   29  vim ~/.vimrc
+   30  vim 
+   31  vim 
+   32  vim ~/.vimrc
+   33  vim ~/.vimrc
+   34  vim ~/.vimrc
+   35  pwd
+   36  cd ./vim
+   37  cd ./vim
+   38  cd ~./vim
+   39  ls
+   40  ls -la
+   41  cd .vim
+   42  čs
+   43  ls
+   44  git submodule add git@github.com:wincent/command-t.git bundle/command-t
+   45  git clone https://github.com/wincent/command-t.git bundle/command-t
+   46  mc
+   47  vim
+   48  vim ~/.vimrc
+   49  vim
+   50  vim ~/.vimrc
+   51  vim ~/.vimrc
+   52  vim ~/.vimrc
+   53  vim ~/.vimrc
+   54  vim
+   55  cd ..
+   56  ls
+   57  ls -la
+   58  tar cvfz .vim.tar.gz .vim
+   59  ls
+   60  ls -la
+   61  ls -lah
+   62  ls
+   63  cd ~./vim
+   64  pwd
+   65  cd .vim
+   66  ls
+   67  cd bundle
+   68  ls
+   69  git clone https://github.com/scrooloose/nerdcommenter.git
+   70  cd ..
+   71  history
+   72  vim ~/.vimrc
+   73  vim 
+   74  vim ~/.vimrc
+   75  git clone https://github.com/itchyny/lightline.vim ~/.vim/bundle/lightline.vim
+   76  vim ~/.vimrc
+   77  vim
+   78  vim ~/.vimrc
+   79  vim ~/.vimrc
+   80  ls
+   81  cd ~
+   82  pwd
+   83  tar cvfz .vimrc.tar.gz ~/.vimrc
+   84  ls -la
+   85  mc
+   86  vim
+   87  cd ~/.vim/bundle
+   88  git clone https://github.com/scrooloose/nerdtree.git
+   89  vim ~/.vimrc
+   90  vim 
+   91  vim 
+   92  vim 
+   93  vim
+   94  vim ~/.vimrc
+   95  cd ~/Skripte
+   96  ls
+   97  cd php
+   98  ls
+   99  vi test001.php
+  100  vim test001.php
+  101  vim test001.php
+  102  vim ~/.vimrc
+  103  vim ~/.vimrc
+  104  vim ~/.vimrc
+  105  vim test001.php
+  106  vim test001.php
+  107  vim test001.php
+  108  vim test001.php
+  109  vim test001.php
+  110  vim ~/.vimrc
+  111  vim test001.php
+  112  ps -ae
+  113  killall -9 vim
+  114  cd Skripte
+  115  cd php
+  116  vim
+  117  vim
+  118  vim
+  119  cd Skripte
+  120  vim
+  121  cd php
+  122  cd ~/.vim/bundle
+  123  git clone git://github.com/tpope/vim-fugitive.git
+  124  vim -u NONE -c "helptags vim-fugitive/doc" -c q
+  125  vim ~/.vimrc
+  126  vim 
+  127  vim 
+  128  cd ..
+  129  cd  ~
+  130  xcd skripte
+  131  cd Skripte
+  132  cd php
+  133  vim
+  134  cd ~/.vim/bundle
+  135  git clone git://github.com/tpope/vim-bundler.git
+  136  git clone git://github.com/tpope/vim-endwise.git
+  137  git clone git://github.com/vim-ruby/vim-ruby.git ~/.vim/bundle/vim-ruby
+  138  cd ..
+  139  cd ..
+  140  history
+  141  history | grep tar
+  142  ls
+  143  ls -la
+  144  rm .vim.tar.gz
+  145  history | grep tar
+  146  rm .vimrc.tar.gz
+  147   tar cvfz .vimrc.tar.gz ~/.vimrc
+  148  ls -la
+  149  cd /var/www
+  150  ls
+  151  cd potmat
+  152  ls
+  153  cd views
+  154  ls
+  155  ls
+  156  cd zaposleni
+  157  ls
+  158  vi create.php
+  159  vi _form.php
+  160  mc
+  161  ls
+  162  cd ..
+  163  cd ..
+  164  cd views
+  165  ls
+  166  cd zaloga
+  167  ls
+  168  vi _form.php
+  169  ls
+  170  cd ..
+  171  cd ..
+  172  cd models
+  173  ls
+  174  vi Zaloga.php
+  175  vi Zaloga.php
+  176  vi Zaloga.php
+  177  vi Zaloga.php
+  178  vi Zaloga.php
+  179  vi Zaloga.php
+  180  vi Zaloga.php
+  181  vi Zaloga.php
+  182  vi Zaloga.php
+  183  vi Zaloga.php
+  184  vi Zaloga.php
+  185  vi Poslano.php
+  186  vi Poslano.php
+  187  vi Poslano.php
+  188  vi Poslano.php
+  189  cd ..
+  190  cd views
+  191  ls
+  192  cd poslano
+  193  ls
+  194  vi index.php
+  195  ls
+  196  vi create.php
+  197  vi _form.php
+  198  vi _form.php
+  199  ls
+  200  vi view.php
+  201  ls
+  202  vi _search.php
+  203  ls
+  204  cd ..
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd models
+  209  ls
+  210  vi Zaloga.php
+  211  cd ..
+  212  cd views
+  213  ls
+  214  cd poslano
+  215  ls
+  216  vi index.php
+  217  vi index.php
+  218  mc
+  219  vi index.php
+  220  vi index.php
+  221  vi index.php
+  222  vi index.php
+  223  vi index.php
+  224  vim index.php
+  225  nano index.php
+  226  cd ..
+  227  cd ..
+  228  cd models
+  229  ls
+  230  nano Zaposleni.php
+  231  mc
+  232  cd ..
+  233  cd ..
+  234  ls
+  235  rm -R potmat
+  236  sudo rm -R potmat
+  237  sudo cp -R  potmat009_kartik-v-yii2-grid potmat
+  238  ls -la
+  239  sudo su
+  240  ls
+  241  history | grep ffmepg
+  242  ffmpeg -i "Beautiful Female Vocal _ 2-Hours Epic Emotional _ Epic Music Mix _ Epic Music VN.mp4" -vn -acodec mp3 -ab 320k -ar 44100 -ac 2 "Beautiful Female Vocal 2-Hours Epic Emotional.mp3"
+  243  cd /var/www
+  244  cd potmat
+  245  ls
+  246  cd ..
+  247  ls
+  248   potmat009_kartik-v-yii2-grid
+  249  cp -R potmat010_kartik-v-yii2-grid
+  250  cp -R potmat potmat010_kartik-v-yii2-grid
+  251  cd potmat
+  252  cd views
+  253  ls
+  254  cd poslano
+  255  ls
+  256  vi create.php
+  257  vi .php
+  258  vi _form.php
+  259  ./_form.php
+  260  cd ..
+  261  cd ..
+  262  cd models
+  263  ls
+  264  vi Poslano.php
+  265  nano Poslano.php
+  266  ls
+  267  vi view.php
+  268  ls
+  269  vi view.php
+  270  ls
+  271  vi _search.php
+  272  vi _search.php
+  273  ls
+  274  vi update.php
+  275  ls
+  276  _form.php
+  277  vi _form.php
+  278  ls
+  279  cd ..
+  280  cd ..
+  281  cd models
+  282  vi Poslano.php
+  283  cd ..
+  284  cd views
+  285  vi _form.php
+  286  cd poslano
+  287  vi _form.php
+  288  mc
+  289  sudo su
+  290  pwd
+  291  cd Skripte
+  292  cd php
+  293  ls
+  294  cd /var/www
+  295  cd potmar
+  296  cd potmat
+  297  ls
+  298  cd views
+  299  ls
+  300  cd poslano
+  301  ls
+  302  cd ..
+  303  cd ..
+  304  cd models
+  305  ls
+  306  vi Poslano.php
+  307  cd ..
+  308  cd ..
+  309  composer require kartik-v/yii2-field-range "dev-master"
+  310  composer require kartik-v/yii2-widget-datepicker "@dev"
+  311  cd Skripte
+  312  ls
+  313  cd php
+  314  ls -la
+  315  rm .test001.php.swp
+  316  vi test001.php
+  317  vi test001.php
+  318  vi test001.php
+  319  vi test001.php
+  320  vi test001.php
+  321  history | grep vimrc
+  322  nano ~/.vimrc
+  323  vi test001.php
+  324  nano ~/.vimrc
+  325  vi test001.php
+  326  nano ~/.vimrc
+  327  vi test001.php
+  328  nano ~/.vimrc
+  329  cd ~
+  330  ls
+  331  ls -la
+  332  rm .vimrc.tar.gz
+  333  tar cvgz .vimrc .vimrc.tar.gz
+  334  tar cvgz .vimrc.tar.gz .vimrc
+  335  ls
+  336  ls -a
+  337  ls -la
+  338  rm .vimrc.tar.gz
+  339  nano ~/.vimrc
+  340  tar cvfz .vimrc.tar.gz .vimrc
+  341  ls -la
+  342  mc
+  343  ls
+  344  cd Skripte
+  345  ls
+  346  cd php
+  347  ls
+  348  cat test001.php
+  349  cd /var/www
+  350  ls -la
+  351  cd potmat
+  352  ls -la
+  353  mc
+  354  history | grep www-data
+  355  sudo chown -R www-data:www-data /var/www
+  356  mc
+  357  sudo su
+  358  composer require 2amigos/yii2-date-picker-widget:~1.0
+  359  cd views
+  360  ls
+  361  cd poslano
+  362  ls
+  363  vi _form.php
+  364  mc
+  365  cd ..
+  366  cd ..
+  367  composer require kartik-v/yii2-widget-select2 "@dev"
+  368  cd views
+  369  cd poslano
+  370  ls
+  371  vi _form.php
+  372  cd ..
+  373  cd ..
+  374  cd model
+  375  cd models
+  376  ls
+  377  vi Poslano.php
+  378  cd ..
+  379  cd views
+  380  ls
+  381  cd poslano
+  382  ls
+  383  vi _form.php
+  384  cd ..
+  385  cd ..
+  386  cd models
+  387  ls
+  388  vi Poslano.php
+  389  vi Poslano.php
+  390  cd ..
+  391  cd views
+  392  ls
+  393  cd poslano
+  394  ls
+  395  vi _form.php
+  396  cd config
+  397  cd ..
+  398  cd ..
+  399  cd config
+  400  ls
+  401  vi web.php
+  402  cd ..
+  403  cd views
+  404  ls
+  405  cd poslano
+  406  ls
+  407  vi _form.php
+  408  cd ..
+  409  cd ..
+  410  ls
+  411  cd controllers
+  412  ls
+  413  vi TestDateController.php
+  414  cd ..
+  415  cd views
+  416  ls
+  417  cd poslano
+  418  ls
+  419  vi create.php
+  420  ls
+  421  vi _form.php
+  422  mc
+  423  ls
+  424  mysql -u root -p yii2basic < yii2basic-19050216.sql
+  425  mysql -u root -p
+  426  mysql -u root -p
+  427  mysql -u root -p yii2basic < yii2basic-19050216.sql
+  428  mysql -u root -p yii2basic < yii2basic-19050216.sql
+  429  mysql -u root -p 
+  430  CREATE DATABASE yii2baza003. CHARACTER SET utf8 COLLATE utf8_general_ci;
+  431  mysql -u root -p 
+  432  mysql -u root -p 
+  433  mysql -u root -p yii2baza003 < yii2basic-19050216.sql
+  434  GRANT ALL PRIVILEGES ON yii2baza003.* TO 'yii2upor2016'@'localhost' IDENTIFIED BY 'yii2geslo2016';
+  435  mysql -u root -p 
+  436  mysql -u root -p 
+  437  ls
+  438  ls -la
+  439  mc
+  440  ls
+  441  tar -zxvf potmat_datum_ok.tar.gz
+  442  ls
+  443  history
+  444  mc
+  445  ls -la
+  446  sudo sh nastavi001.sh
+  447  ls -la
+  448  vi nastavi001.sh
+  449  ls
+  450  cd potmat/config
+  451  ls
+  452  ls
+  453  vi db.php
+  454  mysql -u root -p 
+  455  mc
+  456  mc
+  457  cd /var/www
+  458  ls
+  459  drop
+  460  mc
+  461  ls
+  462  rm   potmat_datum_ok.tar.gz
+  463  tar cvfz  potmat_datum_ok.tar.gz potmat
+  464  ls
+  465  potmat_datum_ok.tar.gz
+  466  potmat_datum_ok.tar.gz potmat_datum_ok.tar.gz
+  467  mv potmat_datum_ok.tar.gz potmat_doma001_datum_ok.tar.gz
+  468  mc
+  469  cd 002
+  470  ls
+  471  cd deluj
+  472  ls
+  473  potmat010_kartik-v-yii2-grid
+  474  potmat010_kartik-v-yii2-grid
+  475  potmat010_kartik-v-yii2-grid
+  476  potmat_doma001_kartik-v-yii2-grid_ok.tar.gz
+  477  potmat_doma001_kartik-v-yii2-grid_ok.tar.gz
+  478  ls
+  479  mv potmat_doma001_kartik-v-yii2-grid_ok.tar.gz
+  480  mv potmat010_kartik-v-yii2-gridpotmat_doma001_kartik-v-yii2-grid
+  481  mv potmat010_kartik-v-yii2-grid potmat_doma001_kartik-v-yii2-grid
+  482  ls
+  483  ls
+  484  potmat010_kartik-v-yii2-grid
+  485  potmat_doma001_kartik-v-yii2-grid_ok.tar.gzpotmat010_kartik-v-yii2-grid
+  486  tar cvfz potmat_doma001_kartik-v-yii2-grid_ok.tar.gz potmat010_kartik-v-yii2-grid
+  487  tar cvfz potmat_doma001_kartik-v-yii2-grid_ok.tar.gz potmat_doma001_kartik-v-yii2-grid
+  488  mc
+  489  cd ..
+  490  cd ..
+  491  mysqldump --opt --user=root --password yii2baza003 > yii2baza003_doma_19052016.sql
+  492  cd ..
+  493  cd ..
+  494  ls
+  495  sudo su
+  496  mc
+  497  df -h
+  498  mc
+  499  df -h
+  500  mc
+  501  sudo su
+  502  ls -la
+  503  composer require kartik-v/yii2-widgets "@dev"
+  504  composer require kartik-v/yii2-editable "@dev"
+  505  composer require kartik-v/yii2-mpdf "@dev"
+  506  composer require kartik-v/yii2-grid "@dev"
+  507  cd config
+  508  ls
+  509  vi web.php
+  510  ls
+  511  cd ,,
+  512  ls
+  513  cd ..
+  514  ls
+  515  cd views
+  516  ls
+  517  cd poslano
+  518  vi index.php
+  519  cd ..
+  520  cd ..
+  521  vi config/web.php
+  522  vi views/poslano/index.php
+  523  history | grep export
+  524  composer require kartik-v/yii2-export "@dev"
+  525  history
+  526  history >> zgod1.txt
